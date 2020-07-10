@@ -1,0 +1,23 @@
+body{
+    background-image: url("images/background.png");
+}
+input [type="text"]{
+    background-color: yellow;
+    color: brown;
+}
+input [type="radio"]{
+    background-color: chartreuse;
+}
+#video-fallback{
+    color: chartreuse;
+}
+.multimedia{
+    background-color: darkgray;
+}
+audio p span{
+    color: red;
+}
+#content{
+    display: inline;
+    background-color: darkgreen;
+}
